@@ -5,3 +5,6 @@ console.log("hello world") // seconde time
 function main (){
   return null;
 }
+
+main()
+console.log(main)
